@@ -18,7 +18,7 @@ Este script foi criado para realizar um ataque DoS simples na porta 21 (FTP) de 
 
 Para compilar o script, utilize o compilador **gcc**:
 
-```gcc DoS.c -g -o dos```
+```gcc dos.c -g -o dos```
 
 #### Execução
 
